@@ -1,0 +1,95 @@
+
+[2026-11-03 15:20:45] Traceback (most recent call last):
+  File "request_handler.pyx", line 117, in cefpython_py39.RequestHandler_OnBeforeResourceLoad
+TypeError: OnBeforeResourceLoad() missing 4 required positional arguments: 'transition_type', 'is_redirect', 'resource_type', and 'is_main_frame'
+
+
+[2026-11-03 15:21:16] Traceback (most recent call last):
+  File "display_handler.pyx", line 100, in cefpython_py39.DisplayHandler_OnStatusMessage
+TypeError: OnStatusMessage() got an unexpected keyword argument 'value'
+
+
+[2026-11-03 15:21:16] Traceback (most recent call last):
+  File "request_handler.pyx", line 117, in cefpython_py39.RequestHandler_OnBeforeResourceLoad
+TypeError: OnBeforeResourceLoad() missing 4 required positional arguments: 'transition_type', 'is_redirect', 'resource_type', and 'is_main_frame'
+
+
+[2026-11-03 15:21:36] Traceback (most recent call last):
+  File "request_handler.pyx", line 117, in cefpython_py39.RequestHandler_OnBeforeResourceLoad
+TypeError: OnBeforeResourceLoad() missing 4 required positional arguments: 'transition_type', 'is_redirect', 'resource_type', and 'is_main_frame'
+
+
+[2026-11-03 15:22:28] Traceback (most recent call last):
+  File "request_handler.pyx", line 117, in cefpython_py39.RequestHandler_OnBeforeResourceLoad
+TypeError: OnBeforeResourceLoad() missing 4 required positional arguments: 'transition_type', 'is_redirect', 'resource_type', and 'is_main_frame'
+
+
+[2026-11-03 17:04:03] Traceback (most recent call last):
+  File "request_handler.pyx", line 117, in cefpython_py39.RequestHandler_OnBeforeResourceLoad
+TypeError: OnBeforeResourceLoad() missing 4 required positional arguments: 'transition_type', 'is_redirect', 'resource_type', and 'is_main_frame'
+
+
+[2026-11-03 17:05:52] Traceback (most recent call last):
+  File "display_handler.pyx", line 100, in cefpython_py39.DisplayHandler_OnStatusMessage
+TypeError: OnStatusMessage() got an unexpected keyword argument 'value'
+
+
+[2026-11-03 17:06:09] Traceback (most recent call last):
+  File "display_handler.pyx", line 100, in cefpython_py39.DisplayHandler_OnStatusMessage
+TypeError: OnStatusMessage() got an unexpected keyword argument 'value'
+
+
+[2026-11-03 17:10:27] Traceback (most recent call last):
+  File "display_handler.pyx", line 100, in cefpython_py39.DisplayHandler_OnStatusMessage
+TypeError: OnStatusMessage() got an unexpected keyword argument 'value'
+
+
+[2026-11-03 17:10:50] Traceback (most recent call last):
+  File "display_handler.pyx", line 100, in cefpython_py39.DisplayHandler_OnStatusMessage
+TypeError: OnStatusMessage() got an unexpected keyword argument 'value'
+
+
+[2026-11-03 17:11:08] Traceback (most recent call last):
+  File "display_handler.pyx", line 100, in cefpython_py39.DisplayHandler_OnStatusMessage
+TypeError: OnStatusMessage() got an unexpected keyword argument 'value'
+
+
+[2026-11-04 13:14:40] Traceback (most recent call last):
+  File "display_handler.pyx", line 100, in cefpython_py39.DisplayHandler_OnStatusMessage
+TypeError: OnStatusMessage() got an unexpected keyword argument 'value'
+
+
+[2026-11-04 13:36:31] Traceback (most recent call last):
+  File "request_handler.pyx", line 117, in cefpython_py39.RequestHandler_OnBeforeResourceLoad
+TypeError: OnBeforeResourceLoad() missing 4 required positional arguments: 'transition_type', 'is_redirect', 'resource_type', and 'is_main_frame'
+
+
+[2026-11-04 14:59:11] Traceback (most recent call last):
+  File "request_handler.pyx", line 117, in cefpython_py39.RequestHandler_OnBeforeResourceLoad
+TypeError: OnBeforeResourceLoad() missing 4 required positional arguments: 'transition_type', 'is_redirect', 'resource_type', and 'is_main_frame'
+
+
+[2026-11-04 15:13:19] Traceback (most recent call last):
+  File "request_handler.pyx", line 117, in cefpython_py39.RequestHandler_OnBeforeResourceLoad
+TypeError: OnBeforeResourceLoad() missing 4 required positional arguments: 'transition_type', 'is_redirect', 'resource_type', and 'is_main_frame'
+
+
+[2026-11-04 15:13:46] Traceback (most recent call last):
+  File "request_handler.pyx", line 117, in cefpython_py39.RequestHandler_OnBeforeResourceLoad
+TypeError: OnBeforeResourceLoad() missing 4 required positional arguments: 'transition_type', 'is_redirect', 'resource_type', and 'is_main_frame'
+
+
+[2026-11-04 15:21:09] Traceback (most recent call last):
+  File "request_handler.pyx", line 117, in cefpython_py39.RequestHandler_OnBeforeResourceLoad
+TypeError: OnBeforeResourceLoad() missing 4 required positional arguments: 'transition_type', 'is_redirect', 'resource_type', and 'is_main_frame'
+
+
+[2026-11-04 17:39:58] Traceback (most recent call last):
+  File "load_handler.pyx", line 20, in cefpython_py39.LoadHandler_OnLoadingStateChange
+TypeError: OnLoadingStateChange() got an unexpected keyword argument 'is_loading'
+
+
+[2026-11-05 13:25:57] Traceback (most recent call last):
+  File "load_handler.pyx", line 20, in cefpython_py39.LoadHandler_OnLoadingStateChange
+TypeError: OnLoadingStateChange() got an unexpected keyword argument 'can_go_back'
+

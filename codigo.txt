@@ -1,0 +1,13 @@
+opencode session import conversa_salva.json
+
+opencode --session ses_e86becb8affesuNVmGxlYEMb0L
+
+opencode session import conversa_salva.json && opencode -s ses_e86becb8affesuNVmGxlYEMb0L
+
+conda activate cefpy39
+cd C:\Users\Samuel\Navegador
+python main.py
+
+
+
+ses_e589b8c2fffexvc39c4yqy1ED3
